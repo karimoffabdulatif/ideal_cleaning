@@ -125,7 +125,7 @@ const Index = () => {
                   fullWidth
                   disabled={isSubmitting}
                 >
-                  {isSubmitting ? "Signing" : "Sign Up"}
+                  {isSubmitting ? "Signing" : "Register"}
                 </Button>
               </Form>
             )}
